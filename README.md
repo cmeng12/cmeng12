@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chang @cmeng94
 - 👀 I’m interested in scientific computing, machine learning, and data science!
-- 📗  I’m currently a PhD candidate in Computational Mathematics @ Emory University.
-- 👩🏻‍🎓 I will graduate in May 2022 with a PhD in Mathematics and an MS in Computer Science.
+- 📗 I’m currently a PhD candidate in Computational Mathematics @ Emory University.
+- 👩🏻‍🎓  I will graduate in May 2022 with a PhD in Mathematics and an MS in Computer Science.
 - 💵 I am looking for a full-time job as a data scientist or quantitative researcher.
 - 📫 How to reach me: chang_meng@live.com or chang.meng@emory.edu
 
