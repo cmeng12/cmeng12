@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chang @cmeng94
-- 👀 I’m interested in scientific computing, machine learning, and data science!
+- 👀 I’m interested in data science, machine learning, and scientific computing!
 - 📗 I’m currently a PhD candidate in Computational Mathematics @ Emory University.
 - 🏫 I will graduate in May 2022 with a PhD in Mathematics and an MS in Computer Science.
 - 🚗 I am looking for a full-time job as a data scientist or quantitative researcher.
