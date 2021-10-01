@@ -4,6 +4,7 @@
 - 🏫 I will graduate in May 2022 with a PhD in Mathematics and an MS in Computer Science.
 - 🚗 I am looking for a full-time job as a data scientist or quantitative researcher.
 - 📩 Email: chang_meng@live.com or chang.meng@emory.edu
+- 💡 LinkedIn: https://www.linkedin.com/in/cmeng94/
 - 💻 Website: https://sites.google.com/view/changmeng
 
 <!---
